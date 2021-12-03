@@ -2,4 +2,5 @@ Library
 Logs
 obj
 Temp
-
+.vs
+.vsconfig
